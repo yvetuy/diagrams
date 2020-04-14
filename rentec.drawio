@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-14T18:50:05.566Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="JakA5hk-myzUX_PJexBJ" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-14T18:53:31.222Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="UHptfOQ_0GVvkGdgVeVs" version="12.9.12" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1157" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-59" value="Forward trade bill details for approval" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;fontSize=11;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="930" y="200" width="102" height="80" as="geometry" />
+          <mxGeometry x="904" y="200" width="102" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-60" value="" style="html=1;shape=plus;outlineConnect=0;" vertex="1" parent="yQS6I_NQXeDQ-WpkQ5g4-59">
           <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-43" value="Send trade entry instructions" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;fontSize=11;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="810" y="200" width="102" height="80" as="geometry" />
+          <mxGeometry x="784" y="200" width="102" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-44" value="" style="html=1;shape=plus;outlineConnect=0;" vertex="1" parent="yQS6I_NQXeDQ-WpkQ5g4-43">
           <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-34" value="Upload scanned sub doc and loa in&amp;nbsp;NetX &amp;nbsp;" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;fontSize=11;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="687" y="200" width="102" height="80" as="geometry" />
+          <mxGeometry x="662" y="200" width="102" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-35" value="" style="html=1;shape=plus;outlineConnect=0;" vertex="1" parent="yQS6I_NQXeDQ-WpkQ5g4-34">
           <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
@@ -103,7 +103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-28" value="Email sub doc" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;fontSize=11;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="565" y="200" width="102" height="80" as="geometry" />
+          <mxGeometry x="565" y="200" width="75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-29" value="" style="html=1;shape=plus;outlineConnect=0;" vertex="1" parent="yQS6I_NQXeDQ-WpkQ5g4-28">
           <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
@@ -138,8 +138,8 @@
         <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-58" value="Pershing" style="swimlane;startSize=20;horizontal=0;fontSize=11;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
           <mxGeometry x="20" y="430" width="1360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-62" value="Forward trade bill details for approval" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;fontSize=11;" vertex="1" parent="yQS6I_NQXeDQ-WpkQ5g4-58">
-          <mxGeometry x="1011" y="20" width="102" height="80" as="geometry" />
+        <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-62" value="Approve Trade" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;fontSize=11;" vertex="1" parent="yQS6I_NQXeDQ-WpkQ5g4-58">
+          <mxGeometry x="1011" y="20" width="69" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-63" value="" style="html=1;shape=plus;outlineConnect=0;" vertex="1" parent="yQS6I_NQXeDQ-WpkQ5g4-62">
           <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
@@ -150,7 +150,7 @@
           <mxGeometry x="20" y="550" width="1360" height="130" as="geometry" />
         </mxCell>
         <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-31" value="Receive sub doc" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;fontSize=11;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry x="568" y="25" width="102" height="80" as="geometry" />
+          <mxGeometry x="568" y="25" width="72" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-32" value="" style="html=1;shape=plus;outlineConnect=0;" vertex="1" parent="yQS6I_NQXeDQ-WpkQ5g4-31">
           <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
@@ -173,7 +173,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-49" value="Email that trade booking is complete" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;fontSize=11;" vertex="1" parent="yQS6I_NQXeDQ-WpkQ5g4-42">
-          <mxGeometry x="930" y="20" width="102" height="80" as="geometry" />
+          <mxGeometry x="904" y="20" width="102" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-50" value="" style="html=1;shape=plus;outlineConnect=0;" vertex="1" parent="yQS6I_NQXeDQ-WpkQ5g4-49">
           <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
@@ -181,7 +181,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-46" value="Book Trade" style="html=1;whiteSpace=wrap;rounded=1;dropTarget=0;fontSize=11;" vertex="1" parent="yQS6I_NQXeDQ-WpkQ5g4-42">
-          <mxGeometry x="810" y="20" width="102" height="80" as="geometry" />
+          <mxGeometry x="784" y="20" width="102" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yQS6I_NQXeDQ-WpkQ5g4-47" value="" style="html=1;shape=plus;outlineConnect=0;" vertex="1" parent="yQS6I_NQXeDQ-WpkQ5g4-46">
           <mxGeometry x="0.5" y="1" width="14" height="14" relative="1" as="geometry">
